@@ -205,12 +205,6 @@ As variáveis previstas são `GITHUB_TOKEN`, `GITHUB_REPOSITORY`, `GITHUB_BRANCH
 
 Esta cópia mantém o projeto anterior separado. A disponibilidade do curso depende dos arquivos e das permissões mantidas pelo professor no Google Drive.
 
-## Manter a tela ligada durante a aula
+## Tela ligada
 
-A opção **Manter tela ligada** começa ativada. Quando você inicia uma aula, a aplicação solicita ao sistema que mantenha a tela acesa usando a Screen Wake Lock API. O texto abaixo do player informa se o pedido foi aceito, negado ou liberado.
-
-- No player próprio, o pedido acompanha a reprodução: é liberado ao pausar ou terminar e solicitado novamente ao reproduzir.
-- Ao trocar para outro aplicativo ou ocultar a página, o pedido é liberado. Ao voltar a uma sessão de aula ativa, o site solicita novamente.
-- No player embutido do Drive, a página não consegue detectar pausas internas. Nesse modo, o pedido permanece durante a sessão de aula visível; use a opção para desativá-lo quando necessário.
-- O navegador precisa oferecer a API e o site deve estar em HTTPS ou localhost. Economia de bateria, configurações do sistema ou bateria baixa podem negar ou liberar o pedido. A interface não promete impedir todo bloqueio.
-- A opção não impede você de bloquear a tela manualmente.
+A função adicional de manter a tela ligada foi removida a pedido do usuário. O comportamento durante a reprodução depende do navegador e do player. Não há solicitação de Screen Wake Lock nesta versão.
