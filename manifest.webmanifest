@@ -1,0 +1,37 @@
+{
+  "id": "./",
+  "name": "ACME Aulas — Next.js Full Stack",
+  "short_name": "ACME Aulas",
+  "description": "Seu curso organizado: 77 aulas, assuntos editáveis e progresso pessoal.",
+  "lang": "pt-BR",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#536c49",
+  "prefer_related_applications": false,
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icons/acme-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/acme-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/acme-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

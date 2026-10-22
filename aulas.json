@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "lessons": [
+    {
+      "id": "1kZl5M_W98hRQgGuLGOUSNIc1uUbFpxLW",
+      "title": "Aula 1 · Parte 1",
+      "description": "Assunto geral: Criar Repositório e Configurar Ambiente de Desenvolvimento. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1BaecpBsvzZUkV_KDsE_59Z7GhKiH9mMY",
+      "title": "Aula 2 · Parte 2",
+      "description": "Assunto geral: Criar Repositório e Configurar Ambiente de Desenvolvimento. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "14BLBmqfuwK9_kO2KLWocGiKr1x_MVgfW",
+      "title": "Aula 3 · Parte 3",
+      "description": "Assunto geral: Criar Repositório e Configurar Ambiente de Desenvolvimento. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1o947qU3aO2Phakv-NMnc_ayE-THKxLxf",
+      "title": "Aula 4 · Parte 4",
+      "description": "Assunto geral: Criar Repositório e Configurar Ambiente de Desenvolvimento. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1scN2BRcs2vDewQy0xoYsewTzaAcHFOFP",
+      "title": "Aula 5 · Parte 5",
+      "description": "Assunto geral: Criar Repositório e Configurar Ambiente de Desenvolvimento. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "18B5sGLMPm0hQD1PpyX4JR7T9p0_UNFTM",
+      "title": "Aula 6 · Parte 6",
+      "description": "Assunto geral: Criar Repositório e Configurar Ambiente de Desenvolvimento. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1pj1O2qRLpp6tofSu6R7E_UK0z3h04F15",
+      "title": "Aula 7 · Parte 7",
+      "description": "Assunto geral: Criar Repositório e Configurar Ambiente de Desenvolvimento. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1ooKFPhkFGQYPaH1lsVBIHvdzceDt6l4g",
+      "title": "Aula 8 · Parte 8",
+      "description": "Assunto geral: Criar Repositório e Configurar Ambiente de Desenvolvimento. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1cbCMTjKpkY4GOEaEz8O7mGvCib5rTtEs",
+      "title": "Aula 9 · Parte 1",
+      "description": "Assunto geral: Inicializar Projeto e Instalar Dependências Principais. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1y6OBPVLnA849cOYN56VkL12VSgx6CVrS",
+      "title": "Aula 10 · Parte 2",
+      "description": "Assunto geral: Inicializar Projeto e Instalar Dependências Principais. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1cTUYd6Mtm3wMlZj55VeT-B86wjB0jvjY",
+      "title": "Aula 11 · Parte 3",
+      "description": "Assunto geral: Inicializar Projeto e Instalar Dependências Principais. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1dIjXRtBI9cd2ATsvRBjw5EgKd3RLELVv",
+      "title": "Aula 12 · Parte 4",
+      "description": "Assunto geral: Inicializar Projeto e Instalar Dependências Principais. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1MP1gUw1Q9aFtKM_2UC4YOd-8VBSVqkN9",
+      "title": "Aula 13 · Parte 5",
+      "description": "Assunto geral: Inicializar Projeto e Instalar Dependências Principais. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1sS8AXK6S5RT4YUhd8E247Rd-MdbeyV3e",
+      "title": "Aula 14 · Parte 6",
+      "description": "Assunto geral: Inicializar Projeto e Instalar Dependências Principais. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1ml1kFjc_hBIgzUlEKM_YvgLWddVjO0Uh",
+      "title": "Aula 15 · Parte 1",
+      "description": "Assunto geral: Configurar Ferramentas de Qualidade de Código. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1gl5NqWQjyX7DcrcBGpT_pvgXUD-ysl6L",
+      "title": "Aula 16 · Parte 2",
+      "description": "Assunto geral: Configurar Ferramentas de Qualidade de Código. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1QVSB9oDNIbF8u_fmbSzZh_AHL89iRsZW",
+      "title": "Aula 17 · Parte 3",
+      "description": "Assunto geral: Configurar Ferramentas de Qualidade de Código. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1rci4uAYt-QSGOBP9nXFahpfU-FH6LPeA",
+      "title": "Aula 18 · Parte 4",
+      "description": "Assunto geral: Configurar Ferramentas de Qualidade de Código. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1sRTuTbMMZG9EdX2sh-H8KAwCsro-N0Kg",
+      "title": "Aula 19 · Parte 5",
+      "description": "Assunto geral: Configurar Ferramentas de Qualidade de Código. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1NRMytjAmbXslLZ6s8LUc3V_-0xEV2v4q",
+      "title": "Aula 20 · Parte 6",
+      "description": "Assunto geral: Configurar Ferramentas de Qualidade de Código. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1s8HKiPjktBIwLkoj0fMVwaGltkKy1X2M",
+      "title": "Aula 21 · Parte 7",
+      "description": "Assunto geral: Configurar Ferramentas de Qualidade de Código. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "18f-riyADKPGetzPgNvlZEthrknFceDoY",
+      "title": "Aula 22 · Parte 1",
+      "description": "Assunto geral: Configurar Suporte a Superconjunto com Sistema Tipado. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1CFGQR2Ka2ICTHfJq6MwQ80VwzL6l9Nv-",
+      "title": "Aula 23 · Parte 2",
+      "description": "Assunto geral: Configurar Suporte a Superconjunto com Sistema Tipado. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1pSHSwTwAfCh8WVfApGDrJF9cu7p7zAP5",
+      "title": "Aula 24 · Parte 3",
+      "description": "Assunto geral: Configurar Suporte a Superconjunto com Sistema Tipado. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1C3iOQA4LDjCtxgvifhoiPY-sBuZBp-ge",
+      "title": "Aula 25 · Parte 4",
+      "description": "Assunto geral: Configurar Suporte a Superconjunto com Sistema Tipado. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1QvYaZycIOkem_w4e5Nevm3Dr3sbF2GpG",
+      "title": "Aula 26 · Parte 1",
+      "description": "Assunto geral: Criar Estrutura Base. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "10VIkYXGwaDr6apgu4zwkvqFeDahwqi3X",
+      "title": "Aula 27 · Parte 2",
+      "description": "Assunto geral: Criar Estrutura Base. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1J5HaIwOMgW06gGcPwBvhbE7mpgnPwTyz",
+      "title": "Aula 28 · Parte 3",
+      "description": "Assunto geral: Criar Estrutura Base. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1B8bi9zkn0ivX99w6LqwjaH6gCQcgkb-f",
+      "title": "Aula 29 · Parte 4",
+      "description": "Assunto geral: Criar Estrutura Base. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1eGvgG8X2kqRFWSZttHnsQbN-TicZpQ9m",
+      "title": "Aula 30 · Parte 5",
+      "description": "Assunto geral: Criar Estrutura Base. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1cH5otyPn5tbNPCKB_VQ7ELnYD7nlibl4",
+      "title": "Aula 31 · Parte 1",
+      "description": "Assunto geral: Configurar Framework CSS. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1284bAoFvAVjPuIkpqKp_5WVZyL7_ZQda",
+      "title": "Aula 32 · Parte 2",
+      "description": "Assunto geral: Configurar Framework CSS. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1O1tDg0h1-5AG_O3Iocbk6fqVO_MrVK0S",
+      "title": "Aula 33 · Parte 3",
+      "description": "Assunto geral: Configurar Framework CSS. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "15GiopCo-_4z2I81v4N4inA8CH5UuhsDG",
+      "title": "Aula 34 · Parte 4",
+      "description": "Assunto geral: Configurar Framework CSS. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1uarbbfEvwQeS_5rBoc0LqBRtIFsyW83s",
+      "title": "Aula 1 · Parte 1",
+      "description": "Assunto geral: Configurar Container com Banco de Dados. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1Hl-GlndSSrCOUR7LbSEQT-vxOzTDPLf9",
+      "title": "Aula 2 · Parte 2",
+      "description": "Assunto geral: Configurar Container com Banco de Dados. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "10zQcjtsmOOAjUZK_ISgjZtv_8h4rjm_t",
+      "title": "Aula 3 · Parte 1",
+      "description": "Assunto geral: Configurar ORM. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1ypoTUjuuO5_ROTuGPotEpBoiWhOQceZD",
+      "title": "Aula 4 · Parte 2",
+      "description": "Assunto geral: Configurar ORM. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1-ayQI2iIFngrmoupB8d70FnL8_KB40lu",
+      "title": "Aula 5 · Parte 3",
+      "description": "Assunto geral: Configurar ORM. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1gkyTsC8jRppMeGbpee40PZ7euxFamCvL",
+      "title": "Aula 6 · Parte 4",
+      "description": "Assunto geral: Configurar ORM. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1h6Izb1MrHJf84Np8USvwDHmEzoHMQwgS",
+      "title": "Aula 7 · Parte 1",
+      "description": "Assunto geral: Definir Esquema de Entidades para Banco de Dados. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1W_IBcMD4LBs_4lqLly2UKVyIvN6DZpX5",
+      "title": "Aula 8 · Parte 2",
+      "description": "Assunto geral: Definir Esquema de Entidades para Banco de Dados. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "13S86Z3Dx35Vb49hrp0rvDasQlch7OF2i",
+      "title": "Aula 9 · Parte 1",
+      "description": "Assunto geral: Gerar Entidades e Popular Banco de Dados. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "16ULwUKas7D4ByBgbx_8d2nbWDmDXU_DU",
+      "title": "Aula 10 · Parte 2",
+      "description": "Assunto geral: Gerar Entidades e Popular Banco de Dados. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1Gn68pLLRMDkZ6x_AzlqLZLXTqTGrE-Iq",
+      "title": "Aula 11 · Parte 3",
+      "description": "Assunto geral: Gerar Entidades e Popular Banco de Dados. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1VH6hl-yXB27Lyxy3vj9ktBsCWKkzZW1L",
+      "title": "Aula 12 · Parte 4",
+      "description": "Assunto geral: Gerar Entidades e Popular Banco de Dados. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1QBXJQi9oaVCedHRn_gW8_-vRj2cYLXxA",
+      "title": "Aula 13 · Parte 5",
+      "description": "Assunto geral: Gerar Entidades e Popular Banco de Dados. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1D7lq4m3GvzR31p6fnhQ0yHvLjoynoLBJ",
+      "title": "Aula 14 · Parte 6",
+      "description": "Assunto geral: Gerar Entidades e Popular Banco de Dados. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1oFltxOT5IsKrsPiSXK63jvsk_KStC-3B",
+      "title": "Aula 1 · Parte 1",
+      "description": "Assunto geral: Implementar Camada de Serviço de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1UCz5_CxYHI_su1yxlC7pI760e20B4IGD",
+      "title": "Aula 2 · Parte 2",
+      "description": "Assunto geral: Implementar Camada de Serviço de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1ixaIR_NHT1JrK5rt6RDhdjBOs6WI47AX",
+      "title": "Aula 3 · Parte 3",
+      "description": "Assunto geral: Implementar Camada de Serviço de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1cTNNkRf9ErVvGUNYRTu9xYnwRgb_LreB",
+      "title": "Aula 4 · Parte 4",
+      "description": "Assunto geral: Implementar Camada de Serviço de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1-cjrqCbsaY7xQRPhu9688GJImkSVpdNY",
+      "title": "Aula 5 · Parte 1",
+      "description": "Assunto geral: Implementar Camada de Controlador de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1Y2rFCCKBOTxS2bu4jVtX4FX6zyoMXQa-",
+      "title": "Aula 6 · Parte 2",
+      "description": "Assunto geral: Implementar Camada de Controlador de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1SdlGUBIylIJUssi42Zg2GFj-rD-izSqC",
+      "title": "Aula 7 · Parte 1",
+      "description": "Assunto geral: Implementar Manipulador de Rota de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1NVhH2c2ZrqwZoTyCo-Ap6MSlTVfTZsud",
+      "title": "Aula 8 · Parte 2",
+      "description": "Assunto geral: Implementar Manipulador de Rota de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1ZhDPIXMuMR9qO5rDgid4W45JI27PXYCB",
+      "title": "Aula 9 · Parte 1",
+      "description": "Assunto geral: Implementar Paginação, Busca e Ordenação de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1grm-fqXhw8VRrk6FmsqKAa4p_baN9aEe",
+      "title": "Aula 10 · Parte 2",
+      "description": "Assunto geral: Implementar Paginação, Busca e Ordenação de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1bfq71-NNAgT7IWCqgo-eWVxs0nQggzSi",
+      "title": "Aula 11 · Parte 3",
+      "description": "Assunto geral: Implementar Paginação, Busca e Ordenação de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1kl3IleYvtMfpLv8WxpJASCoH2tepM_E0",
+      "title": "Aula 12 · Parte 4",
+      "description": "Assunto geral: Implementar Paginação, Busca e Ordenação de Clientes. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1DE-iC2c6uoQGPK8sGpwR6On15_N3xFuv",
+      "title": "Aula 13 · Parte 1",
+      "description": "Assunto geral: Implementar Camada de Serviço, Controlador e Manipulador de Rota de Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1t2LxqQ2mvOJCW2vg2duNI0MI8-Y3p_re",
+      "title": "Aula 14 · Parte 2",
+      "description": "Assunto geral: Implementar Camada de Serviço, Controlador e Manipulador de Rota de Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "12QSv2DxEBwFEsNutvDFkTQZv37F8m8xq",
+      "title": "Aula 15 · Parte 3",
+      "description": "Assunto geral: Implementar Camada de Serviço, Controlador e Manipulador de Rota de Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1NcSpB7y1tn8fDx22IhttOB3ujRDKzRQD",
+      "title": "Aula 16 · Parte 4",
+      "description": "Assunto geral: Implementar Camada de Serviço, Controlador e Manipulador de Rota de Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1YvcRCGs2EtQ-Jn8bwOn-pxtx8jBoV48U",
+      "title": "Aula 17 · Parte 5",
+      "description": "Assunto geral: Implementar Camada de Serviço, Controlador e Manipulador de Rota de Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1uMcn3TWlzxhFuBHIvTWkIwEb8omfH6sR",
+      "title": "Aula 18 · Parte 1",
+      "description": "Assunto geral: Implementar Filtros Avançados e Consulta de Estatísticas para Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "19yPp-JH0gTyqFKWkCaqHlW_189VryqHr",
+      "title": "Aula 19 · Parte 2",
+      "description": "Assunto geral: Implementar Filtros Avançados e Consulta de Estatísticas para Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1J92KDsUJ4aWpiEdQK6RT5OlO5i3zJTbr",
+      "title": "Aula 20 · Parte 3",
+      "description": "Assunto geral: Implementar Filtros Avançados e Consulta de Estatísticas para Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1dWusbE2JjoJI3tuKjYs3q6hyqFtAe3eS",
+      "title": "Aula 21 · Parte 4",
+      "description": "Assunto geral: Implementar Filtros Avançados e Consulta de Estatísticas para Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "12-4VkmFcDGm748yhRsiQqoM9HyMNeoT0",
+      "title": "Aula 22 · Parte 5",
+      "description": "Assunto geral: Implementar Filtros Avançados e Consulta de Estatísticas para Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1UMMFdadsGFx0fy3baw5_d3i3x70L_X63",
+      "title": "Aula 23 · Parte 6",
+      "description": "Assunto geral: Implementar Filtros Avançados e Consulta de Estatísticas para Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1HH_4ufR5DrGKb8_kNy_GRWLMpgNdtac7",
+      "title": "Aula 24 · Parte 7",
+      "description": "Assunto geral: Implementar Filtros Avançados e Consulta de Estatísticas para Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1AM78s2DRndhmXDNwCbmG5Tbz9Sf70UnQ",
+      "title": "Aula 25 · Parte 8",
+      "description": "Assunto geral: Implementar Filtros Avançados e Consulta de Estatísticas para Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1J5q_tw0Lh4RzpzA5PEfJzqZgjaiaGH0t",
+      "title": "Aula 26 · Parte 9",
+      "description": "Assunto geral: Implementar Filtros Avançados e Consulta de Estatísticas para Faturas. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1-7MYn7KXoa-r4CiVO5f7VrFiVUL_AosO",
+      "title": "Aula 27 · Parte 1",
+      "description": "Assunto geral: Implementar Consulta de Métricas para Painel Inicial. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1rqR3lVLtfgswrKdoIoiqH38v1yfRC5zN",
+      "title": "Aula 28 · Parte 2",
+      "description": "Assunto geral: Implementar Consulta de Métricas para Painel Inicial. Você pode editar o título e descrever o assunto desta gravação."
+    },
+    {
+      "id": "1-udMkwtgeTWGbJX9FmifrY74ZkEy0MVh",
+      "title": "Aula 29 · Parte 3",
+      "description": "Assunto geral: Implementar Consulta de Métricas para Painel Inicial. Você pode editar o título e descrever o assunto desta gravação."
+    }
+  ]
+}
